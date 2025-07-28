@@ -1,0 +1,17 @@
+ @charset "utf-8";
+ 
+ body {
+            
+           background-image: radial-gradient(circle,red 10%,yellow 40%,green  80%);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+
+        }
+        h1 {
+
+            color: brown;
+        }
+        h2 {
+
+            color: chartreuse;
+        }

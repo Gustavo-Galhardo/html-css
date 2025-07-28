@@ -1,0 +1,23 @@
+/* Color Theme Swatches in Hex */
+.wolf-sigma-1-hex { color: #3838B2; }
+.wolf-sigma-2-hex { color: #404086; }
+.wolf-sigma-3-hex { color: #1F1FDB; }
+.wolf-sigma-4-hex { color: #3B3B5C; }
+.wolf-sigma-5-hex { color: #292933; }
+.wolf-sigma-6-hex { color: #2A2A33; }
+
+/* Color Theme Swatches in RGBA */
+.wolf-sigma-1-rgba { color: rgba(56, 56, 178, 1); }
+.wolf-sigma-2-rgba { color: rgba(64, 64, 134, 1); }
+.wolf-sigma-3-rgba { color: rgba(31, 31, 219, 1); }
+.wolf-sigma-4-rgba { color: rgba(59, 59, 92, 1); }
+.wolf-sigma-5-rgba { color: rgba(41, 41, 51, 1); }
+.wolf-sigma-6-rgba { color: rgba(42, 42, 51, 1); }
+
+/* Color Theme Swatches in HSLA */
+.wolf-sigma-1-hsla { color: hsla(240, 52, 45, 1); }
+.wolf-sigma-2-hsla { color: hsla(240, 35, 38, 1); }
+.wolf-sigma-3-hsla { color: hsla(240, 75, 49, 1); }
+.wolf-sigma-4-hsla { color: hsla(240, 21, 29, 1); }
+.wolf-sigma-5-hsla { color: hsla(240, 10, 18, 1); }
+.wolf-sigma-6-hsla { color: hsla(240, 9, 18, 1); }
